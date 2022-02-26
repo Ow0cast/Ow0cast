@@ -9,5 +9,5 @@ My name is Overcast.
 
 ---
 ### About me
-I play video games, and like to fuck with people that make token loggers for discord. You can probably find me playing phasmophobia, subnautica or factorio.
-I sometimes stream on [twitch](https://twitch.tv/fakeovercast). You should follow me.
+I play video games, and like to fuck with people that make token loggers for discord. You can probably find me playing fallout 76, rust or minecraft.
+I sometimes stream on [twitch](https://twitch.tv/fakeovercast).
