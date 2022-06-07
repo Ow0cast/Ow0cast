@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 
-My name is Overcast. 
+My name is [Overcast](https://overcast.got-hacked.rip). 
 
 [![Overcast's GitHub stats](https://github-readme-stats.vercel.app/api?username=overcast-gaming&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,5 +9,5 @@ My name is Overcast.
 
 ---
 ### About me
-I play video games, and like to fuck with people that make token loggers for discord. You can probably find me playing fallout 76, rust or minecraft.
+I play video games, and like to fuck with people that make token loggers for discord. You can probably find me playing Garry's Mod, Geometry Dash or Minecraft.
 I sometimes stream on [twitch](https://twitch.tv/fakeovercast).
