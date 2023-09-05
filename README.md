@@ -1,4 +1,8 @@
 <div align="center">
-  <h1>Hi there 👋</h1>
-<img src="https://metrics.lecoq.io/Ow0cast?template=classic&calendar=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=true&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&calendar=false&calendar.limit=1&config.timezone=America%2FToronto&config.twemoji=true">
+  <h1>Hi there 👋</h1><br>
+  Hi. I'm Max, a 15 year old canadian who just so happens to like <img src="https://cdn.discordapp.com/emojis/779565833424601098.webp?quality=lossless" width="16"> pans and is afraid of <img src="https://cdn.discordapp.com/emojis/585915306031972384.webp?quality=lossless" width="16"> ones and zeros. If you want to get in contact with me, send me a DM on <a href="https://discord.com/users/838063348217937992">Discord</a><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ow0cast&show_icons=true&theme=transparent"><br>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Core_i5_12400-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>
