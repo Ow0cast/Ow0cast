@@ -8,5 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ow0cast&show_icons=true&theme=transparent"><br>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Core_i5_12400-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-  <img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><br>
+    <a href="https://codeberg.org/Ow0cast"><img src="https://img.shields.io/badge/codeberg-4793cc?style=for-the-badge&logo=codeberg&logoColor=white"></a>
+  <a href="https://discord.com/users/838063348217937992"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/Ow0cast"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://codeberg.org/Ow0cast/Meta/raw/branch/main/gpgkey"><img src="https://img.shields.io/badge/gpg-2CAF499104EC058F-f38ba8?style=for-the-badge&logoColor=white"></a>
 </div>
