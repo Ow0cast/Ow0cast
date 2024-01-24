@@ -6,7 +6,7 @@
 
   
   <img src="https://github-readme-stats.vercel.app/api?username=ow0cast&show_icons=true&theme=transparent"><br>
-  <img src="https://img.shields.io/badge/Nix OS-1793D1?style=for-the-badge&logo=nixos&logoColor=white">
+  <img src="https://img.shields.io/badge/Artix-1793D1?style=for-the-badge&logo=artix-linux&logoColor=white">
   <img src="https://img.shields.io/badge/Core_i5_12400-0071C5?style=for-the-badge&logo=intel&logoColor=white">
   <img src="https://img.shields.io/badge/NVIDIA-RTX_3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><br>
     <a href="https://codeberg.org/Ow0cast"><img src="https://img.shields.io/badge/codeberg-4793cc?style=for-the-badge&logo=codeberg&logoColor=white"></a>
